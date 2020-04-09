@@ -1,9 +1,13 @@
-<html>
-<Head></head>
-<Body>
-<Script>
-document.write(" Hi guys and friends");
-consolet.log("Hi guys and friends")
-</Script>
-</Body>
-</Html>
+< html >
+    <
+    head >
+    <
+    /head>  <
+    body >
+    <
+    script >
+    document.write(" Hello World!"); <
+/script>  <
+/body>  <
+/html>
+
