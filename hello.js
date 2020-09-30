@@ -5,6 +5,7 @@
     /head>  <
     body >
     <
+        <script type="text/javascript">
     script >
     document.write(" Hello World!"); <
 /script>  <
